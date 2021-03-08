@@ -9,6 +9,9 @@ function throttle(callback,delay) {
     }
 }
 
+
+aaaaaa
+
 // function debounce(callback, delay) {
 //     let pre = 0
 //     return function (event) {
