@@ -8,7 +8,11 @@ function throttle(callback,delay) {
         }
     }
 }
-
+fafhaf
+fafaf
+fagga
+fagag
+agag
 // function debounce(callback, delay) {
 //     let pre = 0
 //     return function (event) {
